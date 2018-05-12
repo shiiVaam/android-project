@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Sports"
+            android:icon="@drawable/ic1"
+            android:title="Sports" />
+        <item
+            android:id="@+id/nav_Gadget"
+            android:icon="@drawable/ic2"
+            android:title="Gadget" />
+        <item
+            android:id="@+id/nav_political"
+            android:icon="@drawable/ic3"
+            android:title="political" />
+        <item
+            android:id="@+id/nav_international"
+            android:icon="@drawable/ic4"
+            android:title="international" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ash1"
+            android:title="home"/>
+    </group>
+
+
+
+</menu>
